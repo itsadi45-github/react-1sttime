@@ -1,0 +1,48 @@
+ReactJs:-
+  . React is Javascript Library
+       library-: library are use to a feature to the perticular website.
+  . React use to make web-frontend aplication
+  . with react we make SPA (Single page application)
+      . which is more faster than the Multipage Application.
+     SPA:- jab site Load nahi hoti yek application say dusrey application paar janey time then that is said to be single page application. and vice versa is called a multipage application
+
+ backend:- jaha haam api banatey hay aur data base ko apney project say connect kartey hay 
+
+ frontend:-jaha haam data ko display akratey hay aur api ko integrate kartey hay backend k sathh.
+    
+    Difference Between library and frame work:
+            . Using a library is like buying tools from a hardware store—I decide how       
+              to build the house. eg:-reactjs,axios,lodash,jquery
+            . Using a framework is like buying a pre-built house shell—I just furnish the   rooms inside a fixed structure eg:-ASP.NET,Express,Angular,Django,SpriingBoot
+
+ Why React JS ?
+     . Fast Because of virtual DOM.
+     . Easy to Learn.
+     . Learning curve is also less Compare to other UI technology.
+     . high demand and a lots of job in market.
+     . Large Comunity.           
+      
+       More About React:-
+        . Develop by Facebook (META)
+        . Curent version is 18.3.1
+        . RC version 19
+        . after react you can easily learn React Native also for the mobile development
+
+
+Real DOM and Virtual DOM are there.
+     VirtualDom makes the copy of real dom.
+     and also react works on VirtualDom
+     prevent from unneccessary re-rendring 
+
+JSX(Javascript XML) :-Combination of HTML and Javascript
+
+VITE:- it is a bundler which helps to make folder Using React 
+       basically it helps to make a proper structure of reactjs.
+        Bundler:- it is a basically tool which helps to makes the folder
+                 
+
+    
+
+
+
+  
